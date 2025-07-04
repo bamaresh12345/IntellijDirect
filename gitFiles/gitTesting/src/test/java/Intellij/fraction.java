@@ -10,6 +10,7 @@ public class fraction {
         int sum1 = myBranchNum1 / num2;
 
         System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("dasklfg';lasdkf;'lasdkf'l;askf;'");
 
 
     }
