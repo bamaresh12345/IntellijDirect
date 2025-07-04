@@ -15,21 +15,85 @@ public class AddTwoNumbers {
         int sum1 = myBranchNum1 + num2;
         int sum3 = num5 + num6;
 
-        System.out.println("asdfasdThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum1);
-        System.out.println("The sum of " + numBNoCommit + " and " + num2 + " is: " + sum3);
+        //My new Branch changes
 
-        System.out.println("asdfsaThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum1);
-        System.out.println("asdfasfThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum2);
-        System.out.println("asdfasdfThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum3);
+        System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
 
-        System.out.println("asdfsaThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum1);
-        System.out.println("asdfasfThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum2);
-        System.out.println("asdfasdfThe sum of " + numBNoCommit + " and " + num2 + " is: " + sum3);
 
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+        System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3); System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
+
+
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
+        System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
+        System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
         //updated sme lins of code and added some more lines
-        //added new file and checking git status
-
-        //ForceCheckout is will loose changes both in main branch  and my branch
+        // added new file and checking git status
     }
 }
 
