@@ -28,6 +28,8 @@ public class AddTwoNumbers {
 
         //updated sme lins of code and added some more lines
         // added new file and checking git status
+
+        //ForceCheckout is will loose changes both in main branch  and my branch
     }
 }
 
