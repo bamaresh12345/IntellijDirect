@@ -20,7 +20,7 @@ public class AddTwoNumbers {
         System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
         System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
 
-
+        System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
         System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
         System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
         System.out.println("asdfasdfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);

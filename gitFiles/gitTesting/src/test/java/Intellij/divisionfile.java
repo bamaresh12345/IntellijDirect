@@ -8,6 +8,7 @@ public class divisionfile {
 
 
         int sum1 = myBranchNum1 / num2; // its division
+        int sum2 = myBranchNum1 / num2; // its division
 
        //hello
 
