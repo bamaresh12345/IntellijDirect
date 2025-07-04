@@ -7,10 +7,10 @@ public class divisionfile {
         int num2 = 20;  // second number
 
 
-        int sum1 = num1 * num2;
+        int sum1 = num1 / num2; // its division
 
-        System.out.println("asdfasdThe sum of " + num1 + " and " + num2 + " is: " + sum1);
+       //hello
 
-
+        System.out.println("asdasdfasdffasdThe sum of " + num1 + " and " + num2 + " is: " + sum1);
     }
 }
