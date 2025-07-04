@@ -6,7 +6,7 @@ public class AddTwoNumbers {
         int num2 = 20;  // second number
 
 
-        int num3 = 38;  // 3 number
+        int ytest = 38;  // 3 number
         int num4 = 20;  // 4 number
 
         int num5 = 10;  // 5 number
