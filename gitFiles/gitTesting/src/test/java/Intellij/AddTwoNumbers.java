@@ -5,7 +5,7 @@ public class AddTwoNumbers {
         int myBranchNum1= 10;  // first number
         int num2 = 20;  // second number
 
-        int num3 = 38;  // 3 number
+        int num3 = 38;  // 3 number  Old commet
         int num4 = 20;  // 4 number
 
         int num5 = 10;  // 5 number
