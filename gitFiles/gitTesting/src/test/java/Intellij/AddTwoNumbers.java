@@ -27,7 +27,7 @@ public class AddTwoNumbers {
         System.out.println("asdfasdfThe sum of " + numBNoCommit1234 + " and " + num2 + " is: " + sum3);
 
         //updated sme lins of code and added some more lines
-        // added new file and checking git status
+        //added new file and checking git status
 
         //ForceCheckout is will loose changes both in main branch  and my branch
     }
