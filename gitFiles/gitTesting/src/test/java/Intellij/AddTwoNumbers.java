@@ -2,7 +2,7 @@ package Intellij;
 
 public class AddTwoNumbers {
     public static void main(String[] args) {
-        int numBNoCommit = 10;  // first number
+        int numBNoCommitMain = 10;  // first number
         int num2 = 20;  // second number
 
 
