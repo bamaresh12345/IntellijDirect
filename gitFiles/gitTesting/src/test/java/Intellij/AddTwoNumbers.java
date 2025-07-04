@@ -2,7 +2,7 @@ package Intellij;
 
 public class AddTwoNumbers {
     public static void main(String[] args) {
-        int pullintoMerge = 10;  // first number
+        int pullintorebase = 10;  // first number
         int num2 = 20;  // second number
 
 
