@@ -3,11 +3,11 @@ package Intellij;
 public class AddTwoNumbers {
     public static void main(String[] args) {
 
-        int FromMaster= 10;  // first number
+        int frombranch= 10;  // first number
         int num2 = 20;  // second number
 
 
-        int rreebbssd = 10;  // first number
+        int frombranc = 10;  // first number
 
 
 
@@ -24,9 +24,9 @@ public class AddTwoNumbers {
         System.out.println("asdfasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
         System.out.println("The sum of " + myBranchNum1 + " and " + num2 + " is: " + sum3);
 
-        System.out.println("myBraertewrtewrtnchNum1");
-        System.out.println("myBraertewrtewrtnchNum1);
-        System.out.println("myBraertewrtewrtnchNum1");
+        System.out.println("modified from branch");
+        System.out.println("modified from branch");
+        System.out.println("modified from branch");
 
         System.out.println("asdfsaThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
         System.out.println("asdfasfThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum2);
@@ -40,6 +40,11 @@ public class AddTwoNumbers {
         
         System.out.println("am from Master newly added line");
           System.out.println("am from Master newly added line");
+
+
+        System.out.println("am from branch newly added line");
+        System.out.println("am from branch newly added line");
+    }
     }
 }
 
