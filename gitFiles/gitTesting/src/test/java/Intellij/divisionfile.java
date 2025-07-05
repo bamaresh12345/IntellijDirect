@@ -11,6 +11,7 @@ public class divisionfile {
 
        //hello
 
-        System.out.println("asdasdfasdffasdThe sum of " + num1 + " and " + num2 + " is: " + sum1);
+        System.out.println("Switch branch sum of " + num1 + " and " + num2 + " is: " + sum1);
+        System.out.println("Switch branch sum of " + num1 + " and " + num2 + " is: " + sum1);
     }
 }
