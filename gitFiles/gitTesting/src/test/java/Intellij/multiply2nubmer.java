@@ -5,7 +5,7 @@ public class multiply2nubmer {
     public static void main(String[] args) {
         int myBranchNum1 = 10;  // first number
         int num2a = 20;  // second number
-
+       //addeed
 
         int sum1 = myBranchNum1 * num2a;
 
