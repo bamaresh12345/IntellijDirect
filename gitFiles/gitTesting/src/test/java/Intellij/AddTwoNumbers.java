@@ -2,10 +2,17 @@ package Intellij;
 
 public class AddTwoNumbers {
     public static void main(String[] args) {
-        int myBranchNum1= 10;  // from my branch second number
-        int num2 = 20;  //from my branch second number
 
-        int num3 = 38;  // 3 number
+        int FromMaster= 10;  // first number
+        int num2 = 20;  // second number
+
+
+        int rreebbssd = 10;  // first number
+        int num2 = 20;  // second number
+
+
+        int ytest = 38;  // 3 number
+
         int num4 = 20;  // 4 number
 
         int num5 = 10;  // 5 number
