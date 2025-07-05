@@ -11,8 +11,7 @@ public class divisionfile {
 
        //hello
         //hello
-        //hello
-        //hello
+        // This is a comment
 
         System.out.println("asdasdfasdffasdThe sum of " + myBranchNum1 + " and " + num2 + " is: " + sum1);
     }
