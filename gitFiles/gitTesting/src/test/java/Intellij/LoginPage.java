@@ -14,10 +14,10 @@ public class LoginPage {
     }
 
     // WebElements
-    @FindBy(id = "username")
+    @FindBy(id = "username") //from mybranch
     WebElement usernameInput;
 
-    @FindBy(id = "password")
+    @FindBy(id = "TextPassword")
     WebElement passwordInput;
 
     @FindBy(id = "loginBtn")
