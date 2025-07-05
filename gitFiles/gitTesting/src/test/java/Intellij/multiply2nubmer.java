@@ -9,6 +9,7 @@ public class multiply2nubmer {
         
         // this is modified from master branch
 
+
         int sum1 = myBranchNum1 * num2a;  //testing added frtom master branch
 
         System.out.println("added from master branch sum of " + myBranchNum1 + " and " + num2a + " is: " + sum1);
