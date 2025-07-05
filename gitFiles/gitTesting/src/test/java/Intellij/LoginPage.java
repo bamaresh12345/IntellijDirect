@@ -18,9 +18,11 @@ public class LoginPage {
     @FindBy(id = "username") //from mybranch
     WebElement usernameInput;
 
-    @FindBy(id = "password")
+    @FindBy(id = "passwordFromASster MOdified")
     WebElement passwordInput;
 
+     @FindBy(id = "loginBtnmodified ")
+    
     @FindBy(id = "loginBtn")
     WebElement loginButton;
 
@@ -38,6 +40,14 @@ public class LoginPage {
     }
 
     public void login(String username, String password) {
+        enterUsername(usernameMOdieded);
+        enterPassword(password); //newly added
+        clickLogin();
+    }
+
+
+    
+    public void newlyAdded(String username, String password) {
         enterUsername(username);
         enterPassword(password);
         clickLogin();
