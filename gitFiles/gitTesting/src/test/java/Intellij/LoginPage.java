@@ -14,7 +14,7 @@ public class LoginPage {
     }
 
     // WebElements
-    @FindBy(id = "username")
+    @FindBy(id = "usernameFromMaster")
     WebElement usernameInput;
 
     @FindBy(id = "password")
