@@ -13,11 +13,12 @@ public class LoginPage {
         PageFactory.initElements(driver, this);
     }
 
+    // this is modified from master branch
     // WebElements
-    @FindBy(id = "username")
+    @FindBy(id = "usernameFromaster branch")
     WebElement usernameInput;
 
-    @FindBy(id = "password")
+    @FindBy(id = "password  Fromaster branch")
     WebElement passwordInput;
 
     @FindBy(id = "loginBtn")
@@ -33,6 +34,11 @@ public class LoginPage {
     }
 
     public void clickLogin() {
+        loginButton.click();
+    }
+
+    //added in master branch
+    public void clickLoginMasterBranchAdded() {
         loginButton.click();
     }
 
