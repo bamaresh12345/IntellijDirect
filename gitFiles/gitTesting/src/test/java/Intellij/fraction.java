@@ -8,6 +8,7 @@ public class fraction {
 
         // Editing files ,get merge comments , asdfasdfasdfasdf
         // this is modified get merge comments
+        // this is modified get merge comments
 
         int sum1 = myBranchNum1 / num2;
 
