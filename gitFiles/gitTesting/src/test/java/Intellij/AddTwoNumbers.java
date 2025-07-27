@@ -45,6 +45,7 @@ public class AddTwoNumbers {
 
         //ForceCheckout is will loose changes both in main branch  and my branch
         //ForceCheckout is will loose changes both in main branch  and my branch
+        //ForceCheckout is will loose changes both in main branch  and my branch
     }
 }
 

@@ -37,6 +37,9 @@ public class LoginPage {
         loginButton.click();
     }
 
+    public void clickLogin1() {
+        loginButton.click();
+    }
     //added in master branch
     public void clickLoginMasterBranchAdded() {
         loginButton.click();
