@@ -15,5 +15,6 @@ public class Git_REVERT {
 
        Delete line
 
+        Commit 1
      */
 }
