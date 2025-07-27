@@ -6,7 +6,9 @@ public class RevertChanges {
 
         System.out.println("Revert changes in GIT");
         System.out.println("Revert changes in GIT");
-
+       // Revert chagnes from local to remote
+        System.out.println("Revert changes in GIT");
+        System.out.println("Revert changes in GIT");
 
     }
 
