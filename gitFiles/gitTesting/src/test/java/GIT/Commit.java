@@ -10,5 +10,6 @@ public class Commit {
         System.out.println("Commit 4 changes in GIT");
         System.out.println("Commit 5 changes in GIT");
         System.out.println("Commit 6 changes in GIT");
+        System.out.println("Commit 7 changes in GIT");
     }
 }
